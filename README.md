@@ -1,5 +1,7 @@
 # SneakerStore
 
+[![CI](https://github.com/JakiWZ/SneakerStore/actions/workflows/ci.yml/badge.svg)](https://github.com/JakiWZ/SneakerStore/actions/workflows/ci.yml)
+
 A full-stack e-commerce API for sneakers, built with ASP.NET Core and Entity Framework Core. Supports user authentication, product browsing, a shopping cart, and a favorites list, backed by a role-based authorization system (Admin/User).
 
 ## Features
